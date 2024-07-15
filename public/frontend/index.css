@@ -1,0 +1,43 @@
+
+.top_section{
+    padding: 10px 50px;
+}
+.navvbar{
+    vertical-align: middle;
+    text-align: right;
+}
+.navvbar a{
+    padding: 10px;
+   font-size: 19px;
+   color: rgb(76, 72, 72);
+   text-decoration: none;
+   text-align: right !important;
+}
+
+
+
+.top_footer{
+    /* position: fixed; */
+    bottom: 0;
+    background: #011A41;
+    color: rgb(221, 220, 235);
+    /* padding: 60px 0; */
+}
+
+.top_footer p{
+    font-size: 18px;
+}
+
+
+.bottom-footer{
+    background-color: black;
+    padding: 20px;
+    text-align: center;
+    align-items: center;
+
+}
+
+.product{
+    color: rgb(76, 72, 72);
+    text-decoration: none;
+}
