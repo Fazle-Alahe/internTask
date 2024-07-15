@@ -9,9 +9,13 @@ DB_USERNAME=root
 DB_PASSWORD=
 
 Admin :: fazlealahe.dev@gmail.com
+
 All of users password are same include admin :: Pa$$w0rd!
 
 Frontend route :: http://127.0.0.1:8000
+
 Dashboard route :: http://127.0.0.1:8000/index
+
 Login route :: http://127.0.0.1:8000/login
+
 Registration route :: http://127.0.0.1:8000/register
